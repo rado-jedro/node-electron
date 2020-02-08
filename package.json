@@ -1,0 +1,11 @@
+{
+  "name": "node-electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rado-jedro/node-electron.git",
+  "author": "Rado Jedro <radoslaw.jedro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
